@@ -210,7 +210,7 @@ else
 	echo "   2) Google"
 	echo "   3) OpenDNS"
 	echo "   4) NTT"
-	echo "   5) 1.1.1.1"
+	echo "   5) 1.1.1.1 (CloudFlare)"
 	echo "   6) Verisign"
 	echo "   7) Quad 9"
 	read -p "DNS [1-7]: " -e -i 1 DNS
